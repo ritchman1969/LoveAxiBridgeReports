@@ -1,35 +1,68 @@
-[
-  {
-    "id": "20260714-165226-6rnb",
-    "title": "Prötectör Of Löve",
-    "commanders": [
-      "Prötectör Of Löve"
-    ],
-    "dateStart": "2026-07-14T23:52:26.000Z",
-    "dateEnd": "2026-07-15T00:50:22.000Z",
-    "dateLabel": "7/14/2026, 4:52:26 PM - 7/14/2026, 5:50:22 PM",
-    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260714-165226-6rnb",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 20,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 2,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260716-160854-ztqq",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 21
+      "dateStart": "2026-07-16T23:08:54.000Z",
+      "dateEnd": "2026-07-17T00:54:47.000Z",
+      "dateLabel": "7/16/2026, 4:08:54 PM - 7/16/2026, 5:54:47 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260716-160854-ztqq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260714-165226-6rnb",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "dateStart": "2026-07-14T23:52:26.000Z",
+      "dateEnd": "2026-07-15T00:50:22.000Z",
+      "dateLabel": "7/14/2026, 4:52:26 PM - 7/14/2026, 5:50:22 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260714-165226-6rnb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 21
+      }
     }
-  }
-]
+  ]
+}
