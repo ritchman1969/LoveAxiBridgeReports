@@ -1,0 +1,44 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260715-214043-sduc",
+      "title": "Brealius, Gizmo Gearbot, Kurramei, Ms Athena Promachos, Prötectör Of Löve",
+      "commanders": [
+        "Brealius",
+        "Gizmo Gearbot",
+        "Kurramei",
+        "Ms Athena Promachos",
+        "Prötectör Of Löve"
+      ],
+      "dateStart": "2026-07-16T04:40:43.000Z",
+      "dateEnd": "2026-07-18T01:17:40.000Z",
+      "dateLabel": "7/15/2026, 9:40:43 PM - 7/17/2026, 6:17:40 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260715-214043-sduc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 43,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 19
+      }
+    }
+  ]
+}
