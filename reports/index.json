@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-163933-wm4u",
+      "title": "Ms Athena Promachos",
+      "commanders": [
+        "Ms Athena Promachos"
+      ],
+      "dateStart": "2026-07-17T23:39:33.000Z",
+      "dateEnd": "2026-07-18T00:36:58.000Z",
+      "dateLabel": "7/17/2026, 4:39:33 PM - 7/17/2026, 5:36:58 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260717-163933-wm4u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260716-160854-r583",
       "title": "Prötectör Of Löve",
       "commanders": [
