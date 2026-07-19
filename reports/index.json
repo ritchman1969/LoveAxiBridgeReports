@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-161711-q9jk",
+      "title": "Soul Of The Storm",
+      "commanders": [
+        "Soul Of The Storm"
+      ],
+      "dateStart": "2026-07-18T23:17:11.000Z",
+      "dateEnd": "2026-07-19T00:55:10.000Z",
+      "dateLabel": "7/18/2026, 4:17:11 PM - 7/18/2026, 5:55:10 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260718-161711-q9jk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260717-163933-iokm",
       "title": "Ms Athena Promachos",
       "commanders": [
