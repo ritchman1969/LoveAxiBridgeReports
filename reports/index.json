@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-155209-ffvy",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "dateStart": "2026-07-20T22:52:09.000Z",
+      "dateEnd": "2026-07-20T23:52:18.000Z",
+      "dateLabel": "7/20/2026, 3:52:09 PM - 7/20/2026, 4:52:18 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260720-155209-ffvy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260719-162638-8imn",
       "title": "Soul Of The Storm",
       "commanders": [
