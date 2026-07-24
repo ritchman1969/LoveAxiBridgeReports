@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-155206-vvdv",
+      "title": "Abbadon Ironaxe, Abbadon Ironside, Bjorn Wildstride",
+      "commanders": [
+        "Abbadon Ironaxe",
+        "Abbadon Ironside",
+        "Bjorn Wildstride"
+      ],
+      "dateStart": "2026-07-23T22:52:06.000Z",
+      "dateEnd": "2026-07-24T00:16:57.000Z",
+      "dateLabel": "7/23/2026, 3:52:06 PM - 7/23/2026, 5:16:57 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260723-155206-vvdv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260722-160902-2r0h",
       "title": "Soul Of The Storm",
       "commanders": [
