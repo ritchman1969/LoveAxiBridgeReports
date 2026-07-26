@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-161824-ktja",
+      "title": "Ms Swagalicious",
+      "commanders": [
+        "Ms Swagalicious"
+      ],
+      "dateStart": "2026-07-25T23:18:24.000Z",
+      "dateEnd": "2026-07-26T00:56:44.000Z",
+      "dateLabel": "7/25/2026, 4:18:24 PM - 7/25/2026, 5:56:44 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260725-161824-ktja",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260724-155958-5uba",
       "title": "Ms Athena Promachos",
       "commanders": [
