@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-161006-mza3",
+      "title": "Rugged Soul",
+      "commanders": [
+        "Rugged Soul"
+      ],
+      "dateStart": "2026-07-26T23:10:06.000Z",
+      "dateEnd": "2026-07-27T00:50:11.000Z",
+      "dateLabel": "7/26/2026, 4:10:06 PM - 7/26/2026, 5:50:11 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260726-161006-mza3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260726-074151-2kom",
       "title": "Soul Of The Storm",
       "commanders": [
