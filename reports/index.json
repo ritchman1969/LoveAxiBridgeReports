@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-153711-68tz",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "dateStart": "2026-07-28T22:37:11.000Z",
+      "dateEnd": "2026-07-28T23:59:37.000Z",
+      "dateLabel": "7/28/2026, 3:37:11 PM - 7/28/2026, 4:59:37 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260728-153711-68tz",
+      "summary": {
+        "borderlandsPct": 0.9333333333333333,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260727-155134-xu4z",
       "title": "Abbadon Ironaxe",
       "commanders": [
