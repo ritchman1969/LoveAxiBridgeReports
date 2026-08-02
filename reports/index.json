@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-113555-2gp0",
+      "title": "Mægnus Storm",
+      "commanders": [
+        "Mægnus Storm"
+      ],
+      "dateStart": "2026-08-02T18:35:55.000Z",
+      "dateEnd": "2026-08-02T19:59:15.000Z",
+      "dateLabel": "8/2/2026, 11:35:55 AM - 8/2/2026, 12:59:15 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260802-113555-2gp0",
+      "summary": {
+        "borderlandsPct": 0.2777777777777778,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260801-153729-jq5q",
       "title": "Ms Swagalicious, Soul Of The Storm",
       "commanders": [
