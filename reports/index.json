@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-153729-jq5q",
+      "title": "Ms Swagalicious, Soul Of The Storm",
+      "commanders": [
+        "Ms Swagalicious",
+        "Soul Of The Storm"
+      ],
+      "dateStart": "2026-08-01T22:37:29.000Z",
+      "dateEnd": "2026-08-02T00:02:20.000Z",
+      "dateLabel": "8/1/2026, 3:37:29 PM - 8/1/2026, 5:02:20 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260801-153729-jq5q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260801-111420-94x6",
       "title": "Soul Of The Storm",
       "commanders": [
