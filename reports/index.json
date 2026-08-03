@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-153621-2m02",
+      "title": "Soul Of The Storm",
+      "commanders": [
+        "Soul Of The Storm"
+      ],
+      "dateStart": "2026-08-02T22:36:21.000Z",
+      "dateEnd": "2026-08-03T00:12:12.000Z",
+      "dateLabel": "8/2/2026, 3:36:21 PM - 8/2/2026, 5:12:12 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260802-153621-2m02",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260802-113555-2gp0",
       "title": "Mægnus Storm",
       "commanders": [
