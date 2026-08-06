@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-164639-e5m9",
+      "title": "Swagnums Jr",
+      "commanders": [
+        "Swagnums Jr"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-05T23:46:39.000Z",
+      "dateEnd": "2026-08-06T00:53:59.000Z",
+      "dateLabel": "8/5/2026, 4:46:39 PM - 8/5/2026, 5:53:59 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260805-164639-e5m9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260804-155409-ojew",
       "title": "Prötectör Of Löve",
       "commanders": [
