@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-154631-vbxd",
+      "title": "Growling Soul, Prötectör Of Löve",
+      "commanders": [
+        "Growling Soul",
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-09T22:46:31.000Z",
+      "dateEnd": "2026-08-09T23:54:48.000Z",
+      "dateLabel": "8/9/2026, 3:46:31 PM - 8/9/2026, 4:54:48 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260809-154631-vbxd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260809-093041-0dm1",
       "title": "Growling Soul, Prötectör Of Löve, Soul Of The Storm",
       "commanders": [
