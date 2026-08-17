@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-161254-2kmh",
+      "title": "Howlric Growlsoul",
+      "commanders": [
+        "Howlric Growlsoul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-16T23:12:54.000Z",
+      "dateEnd": "2026-08-17T00:19:37.000Z",
+      "dateLabel": "8/16/2026, 4:12:54 PM - 8/16/2026, 5:19:37 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260816-161254-2kmh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260815-160432-yww2",
       "title": "Swagnums Jr",
       "commanders": [
