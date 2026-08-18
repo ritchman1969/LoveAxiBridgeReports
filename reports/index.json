@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-152130-rly9",
+      "title": "Midnight Soulfire",
+      "commanders": [
+        "Midnight Soulfire"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-17T22:21:30.000Z",
+      "dateEnd": "2026-08-17T22:56:53.000Z",
+      "dateLabel": "8/17/2026, 3:21:30 PM - 8/17/2026, 3:56:53 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260817-152130-rly9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260816-161254-2kmh",
       "title": "Howlric Growlsoul",
       "commanders": [
