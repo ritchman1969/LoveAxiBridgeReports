@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-154226-c2kk",
+      "title": "Swagnums Jr",
+      "commanders": [
+        "Swagnums Jr"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-22T22:42:26.000Z",
+      "dateEnd": "2026-08-22T23:34:38.389Z",
+      "dateLabel": "8/22/2026, 3:42:26 PM - 8/22/2026, 4:34:38 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260822-154226-c2kk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260821-160354-wxw5",
       "title": "Swagnums Jr",
       "commanders": [
