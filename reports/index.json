@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-163115-f0ux",
+      "title": "Söulfire Störm",
+      "commanders": [
+        "Söulfire Störm"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-23T23:31:15.000Z",
+      "dateEnd": "2026-08-24T00:20:35.472Z",
+      "dateLabel": "8/23/2026, 4:31:15 PM - 8/23/2026, 5:20:35 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260823-163115-f0ux",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260822-154226-c2kk",
       "title": "Swagnums Jr",
       "commanders": [
