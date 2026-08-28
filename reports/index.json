@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-160307-q7xa",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-27T23:03:07.000Z",
+      "dateEnd": "2026-08-27T23:31:50.225Z",
+      "dateLabel": "8/27/2026, 4:03:07 PM - 8/27/2026, 4:31:50 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260827-160307-q7xa",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 38,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260825-160004-swg8",
       "title": "Prötectör Of Löve",
       "commanders": [
