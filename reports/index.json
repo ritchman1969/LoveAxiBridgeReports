@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-154547-htwy",
+      "title": "Ms Swagalicious",
+      "commanders": [
+        "Ms Swagalicious"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-08-28T22:45:47.000Z",
+      "dateEnd": "2026-08-29T00:08:33.735Z",
+      "dateLabel": "8/28/2026, 3:45:47 PM - 8/28/2026, 5:08:33 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260828-154547-htwy",
+      "summary": {
+        "borderlandsPct": 0.95,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260827-160307-q7xa",
       "title": "Prötectör Of Löve",
       "commanders": [
