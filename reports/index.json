@@ -4,6 +4,32 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-105614-r6x5",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-30T17:56:14.000Z",
+      "dateEnd": "2026-08-30T18:53:18.387Z",
+      "dateLabel": "8/30/2026, 10:56:14 AM - 8/30/2026, 11:53:18 AM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260830-105614-r6x5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260829-154439-kigm",
       "title": "Ms Swagalicious",
       "commanders": [
