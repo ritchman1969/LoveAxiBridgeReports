@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-163247-iq3y",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-31T23:32:47.000Z",
+      "dateEnd": "2026-09-01T00:15:51.048Z",
+      "dateLabel": "8/31/2026, 4:32:47 PM - 8/31/2026, 5:15:51 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260831-163247-iq3y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260830-105614-r6x5",
       "title": "Unknown Commander",
       "commanders": [],
