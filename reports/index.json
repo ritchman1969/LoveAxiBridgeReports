@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-162357-saop",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-04T23:23:57.000Z",
+      "dateEnd": "2026-09-05T00:21:14.272Z",
+      "dateLabel": "9/4/2026, 4:23:57 PM - 9/4/2026, 5:21:14 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260904-162357-saop",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260903-155908-m73k",
       "title": "Prötectör Of Löve",
       "commanders": [
