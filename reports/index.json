@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-160317-hbax",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-09-05T23:03:17.000Z",
+      "dateEnd": "2026-09-05T23:57:21.163Z",
+      "dateLabel": "9/5/2026, 4:03:17 PM - 9/5/2026, 4:57:21 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260905-160317-hbax",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260904-162357-saop",
       "title": "Pocket Swagnums",
       "commanders": [
