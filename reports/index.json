@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-154448-bulf",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "guild": {
+        "id": "7A00948C-78D7-49B4-A585-4088599BB381",
+        "name": "Clan Omen",
+        "tag": "Omen"
+      },
+      "dateStart": "2026-09-14T22:44:48.000Z",
+      "dateEnd": "2026-09-14T23:33:05.690Z",
+      "dateLabel": "9/14/2026, 3:44:48 PM - 9/14/2026, 4:33:05 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260914-154448-bulf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260913-161128-1j90",
       "title": "Prötectör Of Löve, Soul Of The Storm",
       "commanders": [
