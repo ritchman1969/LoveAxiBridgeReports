@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-161748-c8mn",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-09-18T23:17:48.000Z",
+      "dateEnd": "2026-09-19T00:42:08.670Z",
+      "dateLabel": "9/18/2026, 4:17:48 PM - 9/18/2026, 5:42:08 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260918-161748-c8mn",
+      "summary": {
+        "borderlandsPct": 0.9,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260917-154632-iqrp",
       "title": "Prötectör Of Löve, Söulfïre Störm",
       "commanders": [
