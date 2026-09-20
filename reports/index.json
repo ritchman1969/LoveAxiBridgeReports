@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-155851-she0",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-19T22:58:51.000Z",
+      "dateEnd": "2026-09-19T23:56:36.455Z",
+      "dateLabel": "9/19/2026, 3:58:51 PM - 9/19/2026, 4:56:36 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260919-155851-she0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260918-161748-c8mn",
       "title": "Pocket Swagnums",
       "commanders": [
