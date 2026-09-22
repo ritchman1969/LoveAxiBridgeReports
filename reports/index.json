@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-153413-r604",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-21T22:34:13.000Z",
+      "dateEnd": "2026-09-21T23:09:40.586Z",
+      "dateLabel": "9/21/2026, 3:34:13 PM - 9/21/2026, 4:09:40 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260921-153413-r604",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260919-155851-she0",
       "title": "Pocket Swagnums",
       "commanders": [
