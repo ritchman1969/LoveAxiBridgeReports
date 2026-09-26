@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-104122-rqq7",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-26T17:41:22.000Z",
+      "dateEnd": "2026-09-26T19:13:24.031Z",
+      "dateLabel": "9/26/2026, 10:41:22 AM - 9/26/2026, 12:13:24 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260926-104122-rqq7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260925-164326-6t7i",
       "title": "Dawn Of Foo",
       "commanders": [
