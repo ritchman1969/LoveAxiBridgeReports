@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-164927-ssih",
+      "title": "Grumpy Foo",
+      "commanders": [
+        "Grumpy Foo"
+      ],
+      "guild": {
+        "id": "AEC84103-177B-E511-A34A-E4115BDF481D",
+        "name": "Hyper Talented",
+        "tag": "HYPE"
+      },
+      "dateStart": "2026-09-26T23:49:27.000Z",
+      "dateEnd": "2026-09-27T00:42:59.243Z",
+      "dateLabel": "9/26/2026, 4:49:27 PM - 9/26/2026, 5:42:59 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260926-164927-ssih",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260926-104122-rqq7",
       "title": "Prötectör Of Löve",
       "commanders": [
