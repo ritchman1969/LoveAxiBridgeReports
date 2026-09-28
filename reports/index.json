@@ -5,6 +5,44 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-155222-0tvw",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-27T22:52:22.000Z",
+      "dateEnd": "2026-09-27T23:38:34.037Z",
+      "dateLabel": "9/27/2026, 3:52:22 PM - 9/27/2026, 4:38:34 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260927-155222-0tvw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260926-164927-ssih",
       "title": "Grumpy Foo",
       "commanders": [
