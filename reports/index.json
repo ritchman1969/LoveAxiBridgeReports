@@ -5,6 +5,44 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-160007-rejm",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-28T23:00:07.000Z",
+      "dateEnd": "2026-09-29T00:16:55.796Z",
+      "dateLabel": "9/28/2026, 4:00:07 PM - 9/28/2026, 5:16:55 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260928-160007-rejm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260927-155222-0tvw",
       "title": "Empyrean Soul",
       "commanders": [
