@@ -5,6 +5,40 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261002-153627-79k5",
+      "title": "Empyrean Soul, Pocket Swagnums",
+      "commanders": [
+        "Empyrean Soul",
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-02T22:36:27.000Z",
+      "dateEnd": "2026-10-02T23:42:58.953Z",
+      "dateLabel": "10/2/2026, 3:36:27 PM - 10/2/2026, 4:42:58 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261002-153627-79k5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20261001-154632-koog",
       "title": "Prötectör Of Löve",
       "commanders": [
