@@ -1,2783 +1,2739 @@
-{
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
-  "entries": [
-    {
-      "id": "20261005-170830-rvby",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-10-06T00:08:30.000Z",
-      "dateEnd": "2026-10-06T00:59:01.201Z",
-      "dateLabel": "10/5/2026, 5:08:30 PM - 10/5/2026, 5:59:01 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261005-170830-rvby",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 17,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 12,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20261004-154502-mkl2",
-      "title": "Empyrean Soul",
-      "commanders": [
-        "Empyrean Soul"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-10-04T22:45:02.000Z",
-      "dateEnd": "2026-10-05T00:11:13.324Z",
-      "dateLabel": "10/4/2026, 3:45:02 PM - 10/4/2026, 5:11:13 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261004-154502-mkl2",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 9,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 9,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20261003-160605-rn1d",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-10-03T23:06:05.000Z",
-      "dateEnd": "2026-10-04T00:08:51.709Z",
-      "dateLabel": "10/3/2026, 4:06:05 PM - 10/3/2026, 5:08:51 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261003-160605-rn1d",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 17,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 9,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20261003-105647-n6jp",
-      "title": "Empyrean Soul",
-      "commanders": [
-        "Empyrean Soul"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-10-03T17:56:47.000Z",
-      "dateEnd": "2026-10-03T19:09:23.412Z",
-      "dateLabel": "10/3/2026, 10:56:47 AM - 10/3/2026, 12:09:23 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261003-105647-n6jp",
-      "summary": {
-        "borderlandsPct": 0.7916666666666666,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 10,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 8,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 5,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20261002-153627-79k5",
-      "title": "Empyrean Soul, Pocket Swagnums",
-      "commanders": [
-        "Empyrean Soul",
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-10-02T22:36:27.000Z",
-      "dateEnd": "2026-10-02T23:42:58.953Z",
-      "dateLabel": "10/2/2026, 3:36:27 PM - 10/2/2026, 4:42:58 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261002-153627-79k5",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 25,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 4,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 12
-      }
-    },
-    {
-      "id": "20261001-154632-koog",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-10-01T22:46:32.000Z",
-      "dateEnd": "2026-10-01T23:48:47.858Z",
-      "dateLabel": "10/1/2026, 3:46:32 PM - 10/1/2026, 4:48:47 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261001-154632-koog",
-      "summary": {
-        "borderlandsPct": 0.9354838709677419,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 11,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260929-162425-cvx8",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-29T23:24:25.000Z",
-      "dateEnd": "2026-09-30T00:18:38.780Z",
-      "dateLabel": "9/29/2026, 4:24:25 PM - 9/29/2026, 5:18:38 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260929-162425-cvx8",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 19,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 20
-      }
-    },
-    {
-      "id": "20260928-160007-rejm",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-28T23:00:07.000Z",
-      "dateEnd": "2026-09-29T00:16:55.796Z",
-      "dateLabel": "9/28/2026, 4:00:07 PM - 9/28/2026, 5:16:55 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260928-160007-rejm",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 11,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 5,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 33,
-        "avgEnemySize": 20
-      }
-    },
-    {
-      "id": "20260927-155222-0tvw",
-      "title": "Empyrean Soul",
-      "commanders": [
-        "Empyrean Soul"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-27T22:52:22.000Z",
-      "dateEnd": "2026-09-27T23:38:34.037Z",
-      "dateLabel": "9/27/2026, 3:52:22 PM - 9/27/2026, 4:38:34 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260927-155222-0tvw",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 10,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260926-164927-ssih",
-      "title": "Grumpy Foo",
-      "commanders": [
-        "Grumpy Foo"
-      ],
-      "guild": {
-        "id": "AEC84103-177B-E511-A34A-E4115BDF481D",
-        "name": "Hyper Talented",
-        "tag": "HYPE"
-      },
-      "dateStart": "2026-09-26T23:49:27.000Z",
-      "dateEnd": "2026-09-27T00:42:59.243Z",
-      "dateLabel": "9/26/2026, 4:49:27 PM - 9/26/2026, 5:42:59 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260926-164927-ssih",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 17,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20260926-104122-rqq7",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-26T17:41:22.000Z",
-      "dateEnd": "2026-09-26T19:13:24.031Z",
-      "dateLabel": "9/26/2026, 10:41:22 AM - 9/26/2026, 12:13:24 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260926-104122-rqq7",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 22,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 5,
-        "avgEnemySize": 6
-      }
-    },
-    {
-      "id": "20260925-164326-6t7i",
-      "title": "Dawn Of Foo",
-      "commanders": [
-        "Dawn Of Foo"
-      ],
-      "guild": {
-        "id": "E1CD7A0A-1E1A-EA11-81B7-AD7CCA945DAC",
-        "name": "Fortress Brimstone",
-        "tag": "BRIM"
-      },
-      "dateStart": "2026-09-25T23:43:26.000Z",
-      "dateEnd": "2026-09-26T00:56:01.222Z",
-      "dateLabel": "9/25/2026, 4:43:26 PM - 9/25/2026, 5:56:01 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260925-164326-6t7i",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 12
-      }
-    },
-    {
-      "id": "20260924-154534-ov5v",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-24T22:45:34.000Z",
-      "dateEnd": "2026-09-24T23:46:26.121Z",
-      "dateLabel": "9/24/2026, 3:45:34 PM - 9/24/2026, 4:46:26 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260924-154534-ov5v",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 14,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 12,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260922-154103-l1k7",
-      "title": "Empyrean Soul, Prötectör Of Löve",
-      "commanders": [
-        "Empyrean Soul",
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-22T22:41:03.000Z",
-      "dateEnd": "2026-09-22T23:58:34.103Z",
-      "dateLabel": "9/22/2026, 3:41:03 PM - 9/22/2026, 4:58:34 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260922-154103-l1k7",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 11,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 6,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 18
-      }
-    },
-    {
-      "id": "20260921-153413-r604",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-21T22:34:13.000Z",
-      "dateEnd": "2026-09-21T23:09:40.586Z",
-      "dateLabel": "9/21/2026, 3:34:13 PM - 9/21/2026, 4:09:40 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260921-153413-r604",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 31,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 23
-      }
-    },
-    {
-      "id": "20260919-155851-she0",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-19T22:58:51.000Z",
-      "dateEnd": "2026-09-19T23:56:36.455Z",
-      "dateLabel": "9/19/2026, 3:58:51 PM - 9/19/2026, 4:56:36 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260919-155851-she0",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 16,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260918-161748-c8mn",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
-        "name": "Secret Order Of The Dolyaks",
-        "tag": "YAKS"
-      },
-      "dateStart": "2026-09-18T23:17:48.000Z",
-      "dateEnd": "2026-09-19T00:42:08.670Z",
-      "dateLabel": "9/18/2026, 4:17:48 PM - 9/18/2026, 5:42:08 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260918-161748-c8mn",
-      "summary": {
-        "borderlandsPct": 0.9,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 8,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260917-154632-iqrp",
-      "title": "Prötectör Of Löve, Söulfïre Störm",
-      "commanders": [
-        "Prötectör Of Löve",
-        "Söulfïre Störm"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-17T22:46:32.000Z",
-      "dateEnd": "2026-09-17T23:37:34.935Z",
-      "dateLabel": "9/17/2026, 3:46:32 PM - 9/17/2026, 4:37:34 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260917-154632-iqrp",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 24,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 9,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260914-154448-bulf",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "7A00948C-78D7-49B4-A585-4088599BB381",
-        "name": "Clan Omen",
-        "tag": "Omen"
-      },
-      "dateStart": "2026-09-14T22:44:48.000Z",
-      "dateEnd": "2026-09-14T23:33:05.690Z",
-      "dateLabel": "9/14/2026, 3:44:48 PM - 9/14/2026, 4:33:05 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260914-154448-bulf",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 27,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 33,
-        "avgEnemySize": 20
-      }
-    },
-    {
-      "id": "20260913-161128-1j90",
-      "title": "Prötectör Of Löve, Soul Of The Storm",
-      "commanders": [
-        "Prötectör Of Löve",
-        "Soul Of The Storm"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-13T23:11:28.000Z",
-      "dateEnd": "2026-09-14T00:23:01.051Z",
-      "dateLabel": "9/13/2026, 4:11:28 PM - 9/13/2026, 5:23:01 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260913-161128-1j90",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 16,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 20
-      }
-    },
-    {
-      "id": "20260912-162537-hq2a",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-12T23:25:37.000Z",
-      "dateEnd": "2026-09-13T00:48:07.782Z",
-      "dateLabel": "9/12/2026, 4:25:37 PM - 9/12/2026, 5:48:07 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260912-162537-hq2a",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260911-161005-xisy",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-11T23:10:05.000Z",
-      "dateEnd": "2026-09-12T01:02:41.515Z",
-      "dateLabel": "9/11/2026, 4:10:05 PM - 9/11/2026, 6:02:41 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260911-161005-xisy",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 10,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260910-154947-6e8p",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-10T22:49:47.000Z",
-      "dateEnd": "2026-09-11T00:06:12.074Z",
-      "dateLabel": "9/10/2026, 3:49:47 PM - 9/10/2026, 5:06:12 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260910-154947-6e8p",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 16,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 13,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 23
-      }
-    },
-    {
-      "id": "20260907-155505-nod0",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-07T22:55:05.000Z",
-      "dateEnd": "2026-09-07T23:57:19.632Z",
-      "dateLabel": "9/7/2026, 3:55:05 PM - 9/7/2026, 4:57:19 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260907-155505-nod0",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 6,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 20
-      }
-    },
-    {
-      "id": "20260906-180340-nm0o",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-07T01:03:40.000Z",
-      "dateEnd": "2026-09-07T01:12:22.786Z",
-      "dateLabel": "9/6/2026, 6:03:40 PM - 9/6/2026, 6:12:22 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260906-180340-nm0o",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 71,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260905-160317-hbax",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
-        "name": "Secret Order Of The Dolyaks",
-        "tag": "YAKS"
-      },
-      "dateStart": "2026-09-05T23:03:17.000Z",
-      "dateEnd": "2026-09-05T23:57:21.163Z",
-      "dateLabel": "9/5/2026, 4:03:17 PM - 9/5/2026, 4:57:21 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260905-160317-hbax",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 14,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 15,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260904-162357-saop",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-04T23:23:57.000Z",
-      "dateEnd": "2026-09-05T00:21:14.272Z",
-      "dateLabel": "9/4/2026, 4:23:57 PM - 9/4/2026, 5:21:14 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260904-162357-saop",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 20,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 20
-      }
-    },
-    {
-      "id": "20260903-155908-m73k",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-03T22:59:08.000Z",
-      "dateEnd": "2026-09-04T00:04:42.404Z",
-      "dateLabel": "9/3/2026, 3:59:08 PM - 9/3/2026, 5:04:42 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260903-155908-m73k",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 15,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 12,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260901-153835-ej3f",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-09-01T22:38:35.000Z",
-      "dateEnd": "2026-09-01T23:57:40.108Z",
-      "dateLabel": "9/1/2026, 3:38:35 PM - 9/1/2026, 4:57:40 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260901-153835-ej3f",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 16,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 19
-      }
-    },
-    {
-      "id": "20260831-163247-iq3y",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-31T23:32:47.000Z",
-      "dateEnd": "2026-09-01T00:15:51.048Z",
-      "dateLabel": "8/31/2026, 4:32:47 PM - 8/31/2026, 5:15:51 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260831-163247-iq3y",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 27,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 38,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260830-105614-r6x5",
-      "title": "Unknown Commander",
-      "commanders": [],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-30T17:56:14.000Z",
-      "dateEnd": "2026-08-30T18:53:18.387Z",
-      "dateLabel": "8/30/2026, 10:56:14 AM - 8/30/2026, 11:53:18 AM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260830-105614-r6x5",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 13,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 3,
-        "avgEnemySize": 6
-      }
-    },
-    {
-      "id": "20260829-154439-kigm",
-      "title": "Ms Swagalicious",
-      "commanders": [
-        "Ms Swagalicious"
-      ],
-      "guild": {
-        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
-        "name": "Secret Order Of The Dolyaks",
-        "tag": "YAKS"
-      },
-      "dateStart": "2026-08-29T22:44:39.000Z",
-      "dateEnd": "2026-08-29T23:36:21.822Z",
-      "dateLabel": "8/29/2026, 3:44:39 PM - 8/29/2026, 4:36:21 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260829-154439-kigm",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 14,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 12,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 22
-      }
-    },
-    {
-      "id": "20260828-154547-htwy",
-      "title": "Ms Swagalicious",
-      "commanders": [
-        "Ms Swagalicious"
-      ],
-      "guild": {
-        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
-        "name": "Secret Order Of The Dolyaks",
-        "tag": "YAKS"
-      },
-      "dateStart": "2026-08-28T22:45:47.000Z",
-      "dateEnd": "2026-08-29T00:08:33.735Z",
-      "dateLabel": "8/28/2026, 3:45:47 PM - 8/28/2026, 5:08:33 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260828-154547-htwy",
-      "summary": {
-        "borderlandsPct": 0.95,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 12,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260827-160307-q7xa",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-27T23:03:07.000Z",
-      "dateEnd": "2026-08-27T23:31:50.225Z",
-      "dateLabel": "8/27/2026, 4:03:07 PM - 8/27/2026, 4:31:50 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260827-160307-q7xa",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 38,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 5,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260825-160004-swg8",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-25T23:00:04.000Z",
-      "dateEnd": "2026-08-25T23:46:38.454Z",
-      "dateLabel": "8/25/2026, 4:00:04 PM - 8/25/2026, 4:46:38 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260825-160004-swg8",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 34,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 39,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260824-154638-ttjf",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-24T22:46:38.000Z",
-      "dateEnd": "2026-08-24T23:43:16.593Z",
-      "dateLabel": "8/24/2026, 3:46:38 PM - 8/24/2026, 4:43:16 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260824-154638-ttjf",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 34,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 6,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 30
-      }
-    },
-    {
-      "id": "20260823-163115-f0ux",
-      "title": "Söulfire Störm",
-      "commanders": [
-        "Söulfire Störm"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-23T23:31:15.000Z",
-      "dateEnd": "2026-08-24T00:20:35.472Z",
-      "dateLabel": "8/23/2026, 4:31:15 PM - 8/23/2026, 5:20:35 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260823-163115-f0ux",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 11,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 23
-      }
-    },
-    {
-      "id": "20260822-154226-c2kk",
-      "title": "Swagnums Jr",
-      "commanders": [
-        "Swagnums Jr"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-22T22:42:26.000Z",
-      "dateEnd": "2026-08-22T23:34:38.389Z",
-      "dateLabel": "8/22/2026, 3:42:26 PM - 8/22/2026, 4:34:38 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260822-154226-c2kk",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 24,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 8,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260821-160354-wxw5",
-      "title": "Swagnums Jr",
-      "commanders": [
-        "Swagnums Jr"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-21T23:03:54.000Z",
-      "dateEnd": "2026-08-22T00:29:39.333Z",
-      "dateLabel": "8/21/2026, 4:03:54 PM - 8/21/2026, 5:29:39 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260821-160354-wxw5",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 15,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260820-160248-h7ak",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-20T23:02:48.000Z",
-      "dateEnd": "2026-08-20T23:57:12.080Z",
-      "dateLabel": "8/20/2026, 4:02:48 PM - 8/20/2026, 4:57:12 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260820-160248-h7ak",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 19,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 10,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260819-165441-8m2r",
-      "title": "Pocket Swagnums",
-      "commanders": [
-        "Pocket Swagnums"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-19T23:54:41.000Z",
-      "dateEnd": "2026-08-20T00:32:05.886Z",
-      "dateLabel": "8/19/2026, 4:54:41 PM - 8/19/2026, 5:32:05 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260819-165441-8m2r",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 27,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 10
-      }
-    },
-    {
-      "id": "20260818-153551-6mot",
-      "title": "Midnight Soulfire, Prötectör Of Löve",
-      "commanders": [
-        "Midnight Soulfire",
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-18T22:35:51.000Z",
-      "dateEnd": "2026-08-19T00:10:10.789Z",
-      "dateLabel": "8/18/2026, 3:35:51 PM - 8/18/2026, 5:10:10 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260818-153551-6mot",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 13,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20260817-152130-rly9",
-      "title": "Midnight Soulfire",
-      "commanders": [
-        "Midnight Soulfire"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-17T22:21:30.000Z",
-      "dateEnd": "2026-08-17T22:56:53.000Z",
-      "dateLabel": "8/17/2026, 3:21:30 PM - 8/17/2026, 3:56:53 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260817-152130-rly9",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 35,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20260816-161254-2kmh",
-      "title": "Howlric Growlsoul",
-      "commanders": [
-        "Howlric Growlsoul"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-16T23:12:54.000Z",
-      "dateEnd": "2026-08-17T00:19:37.000Z",
-      "dateLabel": "8/16/2026, 4:12:54 PM - 8/16/2026, 5:19:37 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260816-161254-2kmh",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 14,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 10,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 17,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260815-160432-yww2",
-      "title": "Swagnums Jr",
-      "commanders": [
-        "Swagnums Jr"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-15T23:04:32.000Z",
-      "dateEnd": "2026-08-15T23:57:07.000Z",
-      "dateLabel": "8/15/2026, 4:04:32 PM - 8/15/2026, 4:57:07 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260815-160432-yww2",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 18,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 22
-      }
-    },
-    {
-      "id": "20260814-151836-ghh4",
-      "title": "Dnô, Growling Soul, Prötectör Of Löve, Swagnums Jr, Treepointonefour",
-      "commanders": [
-        "Dnô",
-        "Growling Soul",
-        "Prötectör Of Löve",
-        "Swagnums Jr",
-        "Treepointonefour"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-14T22:18:36.000Z",
-      "dateEnd": "2026-08-14T22:58:59.000Z",
-      "dateLabel": "8/14/2026, 3:18:36 PM - 8/14/2026, 3:58:59 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260814-151836-ghh4",
-      "summary": {
-        "borderlandsPct": 0.8260869565217391,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 12,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 4,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 17,
-        "avgEnemySize": 13
-      }
-    },
-    {
-      "id": "20260813-154048-qjdb",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-13T22:40:48.000Z",
-      "dateEnd": "2026-08-13T23:50:44.000Z",
-      "dateLabel": "8/13/2026, 3:40:48 PM - 8/13/2026, 4:50:44 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260813-154048-qjdb",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 34,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 14
-      }
-    },
-    {
-      "id": "20260812-161950-sghj",
-      "title": "Grumpy Foo, Swagnums Jr",
-      "commanders": [
-        "Grumpy Foo",
-        "Swagnums Jr"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-12T23:19:50.000Z",
-      "dateEnd": "2026-08-13T00:15:41.000Z",
-      "dateLabel": "8/12/2026, 4:19:50 PM - 8/12/2026, 5:15:41 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260812-161950-sghj",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 17,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 11,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260810-154223-vdi2",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-10T22:42:23.000Z",
-      "dateEnd": "2026-08-10T23:51:31.000Z",
-      "dateLabel": "8/10/2026, 3:42:23 PM - 8/10/2026, 4:51:31 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260810-154223-vdi2",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 22,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 12,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260809-154631-vbxd",
-      "title": "Growling Soul, Prötectör Of Löve",
-      "commanders": [
-        "Growling Soul",
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-09T22:46:31.000Z",
-      "dateEnd": "2026-08-09T23:54:48.000Z",
-      "dateLabel": "8/9/2026, 3:46:31 PM - 8/9/2026, 4:54:48 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260809-154631-vbxd",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 12,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 16
-      }
-    },
-    {
-      "id": "20260809-093041-0dm1",
-      "title": "Growling Soul, Prötectör Of Löve, Soul Of The Storm",
-      "commanders": [
-        "Growling Soul",
-        "Prötectör Of Löve",
-        "Soul Of The Storm"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-09T16:30:41.000Z",
-      "dateEnd": "2026-08-09T17:38:07.000Z",
-      "dateLabel": "8/9/2026, 9:30:41 AM - 8/9/2026, 10:38:07 AM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260809-093041-0dm1",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 17,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 7
-      }
-    },
-    {
-      "id": "20260808-154653-i1e4",
-      "title": "Swagnums Jr",
-      "commanders": [
-        "Swagnums Jr"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-08T22:46:53.000Z",
-      "dateEnd": "2026-08-09T00:20:26.000Z",
-      "dateLabel": "8/8/2026, 3:46:53 PM - 8/8/2026, 5:20:26 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260808-154653-i1e4",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 10,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 17,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260808-065844-9xsy",
-      "title": "Growling Soul",
-      "commanders": [
-        "Growling Soul"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-08T13:58:44.000Z",
-      "dateEnd": "2026-08-08T15:23:02.000Z",
-      "dateLabel": "8/8/2026, 6:58:44 AM - 8/8/2026, 8:23:02 AM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260808-065844-9xsy",
-      "summary": {
-        "borderlandsPct": 0.5833333333333334,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 6,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 2,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260807-155348-1641",
-      "title": "Swagnums Jr",
-      "commanders": [
-        "Swagnums Jr"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-07T22:53:48.000Z",
-      "dateEnd": "2026-08-08T00:43:21.000Z",
-      "dateLabel": "8/7/2026, 3:53:48 PM - 8/7/2026, 5:43:21 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260807-155348-1641",
-      "summary": {
-        "borderlandsPct": 0.75,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 4,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 22
-      }
-    },
-    {
-      "id": "20260806-154346-ltwy",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-06T22:43:46.000Z",
-      "dateEnd": "2026-08-06T23:56:50.000Z",
-      "dateLabel": "8/6/2026, 3:43:46 PM - 8/6/2026, 4:56:50 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260806-154346-ltwy",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 10,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260805-164639-e5m9",
-      "title": "Swagnums Jr",
-      "commanders": [
-        "Swagnums Jr"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-05T23:46:39.000Z",
-      "dateEnd": "2026-08-06T00:53:59.000Z",
-      "dateLabel": "8/5/2026, 4:46:39 PM - 8/5/2026, 5:53:59 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260805-164639-e5m9",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 19,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 9,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260804-155409-ojew",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "guild": {
-        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
-        "name": "Soulmates Always And Forever",
-        "tag": "LOVE"
-      },
-      "dateStart": "2026-08-04T22:54:09.000Z",
-      "dateEnd": "2026-08-05T00:21:30.000Z",
-      "dateLabel": "8/4/2026, 3:54:09 PM - 8/4/2026, 5:21:30 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260804-155409-ojew",
-      "summary": {
-        "borderlandsPct": 0.9047619047619048,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 18,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260803-154142-o0ee",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "dateStart": "2026-08-03T22:41:42.000Z",
-      "dateEnd": "2026-08-03T23:28:29.000Z",
-      "dateLabel": "8/3/2026, 3:41:42 PM - 8/3/2026, 4:28:29 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260803-154142-o0ee",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 16,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 13,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 29
-      }
-    },
-    {
-      "id": "20260802-153621-2m02",
-      "title": "Soul Of The Storm",
-      "commanders": [
-        "Soul Of The Storm"
-      ],
-      "dateStart": "2026-08-02T22:36:21.000Z",
-      "dateEnd": "2026-08-03T00:12:12.000Z",
-      "dateLabel": "8/2/2026, 3:36:21 PM - 8/2/2026, 5:12:12 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260802-153621-2m02",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260802-113555-2gp0",
-      "title": "Mægnus Storm",
-      "commanders": [
-        "Mægnus Storm"
-      ],
-      "dateStart": "2026-08-02T18:35:55.000Z",
-      "dateEnd": "2026-08-02T19:59:15.000Z",
-      "dateLabel": "8/2/2026, 11:35:55 AM - 8/2/2026, 12:59:15 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260802-113555-2gp0",
-      "summary": {
-        "borderlandsPct": 0.2777777777777778,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 13,
-        "avgEnemySize": 20
-      }
-    },
-    {
-      "id": "20260801-153729-jq5q",
-      "title": "Ms Swagalicious, Soul Of The Storm",
-      "commanders": [
-        "Ms Swagalicious",
-        "Soul Of The Storm"
-      ],
-      "dateStart": "2026-08-01T22:37:29.000Z",
-      "dateEnd": "2026-08-02T00:02:20.000Z",
-      "dateLabel": "8/1/2026, 3:37:29 PM - 8/1/2026, 5:02:20 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260801-153729-jq5q",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 17,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20260801-111420-94x6",
-      "title": "Soul Of The Storm",
-      "commanders": [
-        "Soul Of The Storm"
-      ],
-      "dateStart": "2026-08-01T18:14:20.000Z",
-      "dateEnd": "2026-08-01T19:57:43.000Z",
-      "dateLabel": "8/1/2026, 11:14:20 AM - 8/1/2026, 12:57:43 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260801-111420-94x6",
-      "summary": {
-        "borderlandsPct": 0.7272727272727273,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 3,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 13
-      }
-    },
-    {
-      "id": "20260731-150841-drlt",
-      "title": "Growling Soul, Ms Swagalicious",
-      "commanders": [
-        "Growling Soul",
-        "Ms Swagalicious"
-      ],
-      "dateStart": "2026-07-31T22:08:41.000Z",
-      "dateEnd": "2026-08-01T00:33:09.000Z",
-      "dateLabel": "7/31/2026, 3:08:41 PM - 7/31/2026, 5:33:09 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260731-150841-drlt",
-      "summary": {
-        "borderlandsPct": 0.6666666666666666,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 4,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 15,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260730-155022-ip8f",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "dateStart": "2026-07-30T22:50:22.000Z",
-      "dateEnd": "2026-07-31T00:03:05.000Z",
-      "dateLabel": "7/30/2026, 3:50:22 PM - 7/30/2026, 5:03:05 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260730-155022-ip8f",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 16
-      }
-    },
-    {
-      "id": "20260728-153711-7d3u",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "dateStart": "2026-07-28T22:37:11.000Z",
-      "dateEnd": "2026-07-28T23:59:37.000Z",
-      "dateLabel": "7/28/2026, 3:37:11 PM - 7/28/2026, 4:59:37 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260728-153711-7d3u",
-      "summary": {
-        "borderlandsPct": 0.9333333333333333,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260728-153711-68tz",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "dateStart": "2026-07-28T22:37:11.000Z",
-      "dateEnd": "2026-07-28T23:59:37.000Z",
-      "dateLabel": "7/28/2026, 3:37:11 PM - 7/28/2026, 4:59:37 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260728-153711-68tz",
-      "summary": {
-        "borderlandsPct": 0.9333333333333333,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 11,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260727-155134-xu4z",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "dateStart": "2026-07-27T22:51:34.000Z",
-      "dateEnd": "2026-07-28T00:15:59.000Z",
-      "dateLabel": "7/27/2026, 3:51:34 PM - 7/27/2026, 5:15:59 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260727-155134-xu4z",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 8,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 7,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260726-161006-mza3",
-      "title": "Rugged Soul",
-      "commanders": [
-        "Rugged Soul"
-      ],
-      "dateStart": "2026-07-26T23:10:06.000Z",
-      "dateEnd": "2026-07-27T00:50:11.000Z",
-      "dateLabel": "7/26/2026, 4:10:06 PM - 7/26/2026, 5:50:11 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260726-161006-mza3",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260726-074151-2kom",
-      "title": "Soul Of The Storm",
-      "commanders": [
-        "Soul Of The Storm"
-      ],
-      "dateStart": "2026-07-26T14:41:51.000Z",
-      "dateEnd": "2026-07-26T15:39:04.000Z",
-      "dateLabel": "7/26/2026, 7:41:51 AM - 7/26/2026, 8:39:04 AM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260726-074151-2kom",
-      "summary": {
-        "borderlandsPct": 0.8275862068965517,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 14,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 4,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 3,
-        "avgEnemySize": 16
-      }
-    },
-    {
-      "id": "20260725-161824-ktja",
-      "title": "Ms Swagalicious",
-      "commanders": [
-        "Ms Swagalicious"
-      ],
-      "dateStart": "2026-07-25T23:18:24.000Z",
-      "dateEnd": "2026-07-26T00:56:44.000Z",
-      "dateLabel": "7/25/2026, 4:18:24 PM - 7/25/2026, 5:56:44 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260725-161824-ktja",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 10,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260724-155958-5uba",
-      "title": "Ms Athena Promachos",
-      "commanders": [
-        "Ms Athena Promachos"
-      ],
-      "dateStart": "2026-07-24T22:59:58.000Z",
-      "dateEnd": "2026-07-25T00:08:16.000Z",
-      "dateLabel": "7/24/2026, 3:59:58 PM - 7/24/2026, 5:08:16 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260724-155958-5uba",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 17,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 5,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 34
-      }
-    },
-    {
-      "id": "20260723-155206-vvdv",
-      "title": "Abbadon Ironaxe, Abbadon Ironside, Bjorn Wildstride",
-      "commanders": [
-        "Abbadon Ironaxe",
-        "Abbadon Ironside",
-        "Bjorn Wildstride"
-      ],
-      "dateStart": "2026-07-23T22:52:06.000Z",
-      "dateEnd": "2026-07-24T00:16:57.000Z",
-      "dateLabel": "7/23/2026, 3:52:06 PM - 7/23/2026, 5:16:57 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260723-155206-vvdv",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 19,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20260722-160902-2r0h",
-      "title": "Soul Of The Storm",
-      "commanders": [
-        "Soul Of The Storm"
-      ],
-      "dateStart": "2026-07-22T23:09:02.000Z",
-      "dateEnd": "2026-07-23T00:56:32.000Z",
-      "dateLabel": "7/22/2026, 4:09:02 PM - 7/22/2026, 5:56:32 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260722-160902-2r0h",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 8,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260721-155521-z31n",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "dateStart": "2026-07-21T22:55:21.000Z",
-      "dateEnd": "2026-07-22T00:01:00.000Z",
-      "dateLabel": "7/21/2026, 3:55:21 PM - 7/21/2026, 5:01:00 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260721-155521-z31n",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 27,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260720-155209-ffvy",
-      "title": "Abbadon Ironaxe",
-      "commanders": [
-        "Abbadon Ironaxe"
-      ],
-      "dateStart": "2026-07-20T22:52:09.000Z",
-      "dateEnd": "2026-07-20T23:52:18.000Z",
-      "dateLabel": "7/20/2026, 3:52:09 PM - 7/20/2026, 4:52:18 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260720-155209-ffvy",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260719-162638-8imn",
-      "title": "Soul Of The Storm",
-      "commanders": [
-        "Soul Of The Storm"
-      ],
-      "dateStart": "2026-07-19T23:26:38.000Z",
-      "dateEnd": "2026-07-20T00:33:11.000Z",
-      "dateLabel": "7/19/2026, 4:26:38 PM - 7/19/2026, 5:33:11 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260719-162638-8imn",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 12,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 5,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260718-161711-q9jk",
-      "title": "Soul Of The Storm",
-      "commanders": [
-        "Soul Of The Storm"
-      ],
-      "dateStart": "2026-07-18T23:17:11.000Z",
-      "dateEnd": "2026-07-19T00:55:10.000Z",
-      "dateLabel": "7/18/2026, 4:17:11 PM - 7/18/2026, 5:55:10 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260718-161711-q9jk",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 5,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20260717-163933-iokm",
-      "title": "Ms Athena Promachos",
-      "commanders": [
-        "Ms Athena Promachos"
-      ],
-      "dateStart": "2026-07-17T23:39:33.000Z",
-      "dateEnd": "2026-07-18T00:36:58.000Z",
-      "dateLabel": "7/17/2026, 4:39:33 PM - 7/17/2026, 5:36:58 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260717-163933-iokm",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 20,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260716-160854-ztqq",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "dateStart": "2026-07-16T23:08:54.000Z",
-      "dateEnd": "2026-07-17T00:54:47.000Z",
-      "dateLabel": "7/16/2026, 4:08:54 PM - 7/16/2026, 5:54:47 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260716-160854-ztqq",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 16,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 29
-      }
-    },
-    {
-      "id": "20260714-165226-6rnb",
-      "title": "Prötectör Of Löve",
-      "commanders": [
-        "Prötectör Of Löve"
-      ],
-      "dateStart": "2026-07-14T23:52:26.000Z",
-      "dateEnd": "2026-07-15T00:50:22.000Z",
-      "dateLabel": "7/14/2026, 4:52:26 PM - 7/14/2026, 5:50:22 PM",
-      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260714-165226-6rnb",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 20,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 21
-      }
+[
+  {
+    "id": "20261004-154502-mkl2",
+    "title": "Empyrean Soul",
+    "commanders": [
+      "Empyrean Soul"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-10-04T22:45:02.000Z",
+    "dateEnd": "2026-10-05T00:11:13.324Z",
+    "dateLabel": "10/4/2026, 3:45:02 PM - 10/4/2026, 5:11:13 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261004-154502-mkl2",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 9,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 26
     }
-  ]
-}
+  },
+  {
+    "id": "20261003-160605-rn1d",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-10-03T23:06:05.000Z",
+    "dateEnd": "2026-10-04T00:08:51.709Z",
+    "dateLabel": "10/3/2026, 4:06:05 PM - 10/3/2026, 5:08:51 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261003-160605-rn1d",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 9,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 26
+    }
+  },
+  {
+    "id": "20261003-105647-n6jp",
+    "title": "Empyrean Soul",
+    "commanders": [
+      "Empyrean Soul"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-10-03T17:56:47.000Z",
+    "dateEnd": "2026-10-03T19:09:23.412Z",
+    "dateLabel": "10/3/2026, 10:56:47 AM - 10/3/2026, 12:09:23 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261003-105647-n6jp",
+    "summary": {
+      "borderlandsPct": 0.7916666666666666,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 10,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 5,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20261002-153627-79k5",
+    "title": "Empyrean Soul, Pocket Swagnums",
+    "commanders": [
+      "Empyrean Soul",
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-10-02T22:36:27.000Z",
+    "dateEnd": "2026-10-02T23:42:58.953Z",
+    "dateLabel": "10/2/2026, 3:36:27 PM - 10/2/2026, 4:42:58 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261002-153627-79k5",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 25,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 12
+    }
+  },
+  {
+    "id": "20261001-154632-koog",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-10-01T22:46:32.000Z",
+    "dateEnd": "2026-10-01T23:48:47.858Z",
+    "dateLabel": "10/1/2026, 3:46:32 PM - 10/1/2026, 4:48:47 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261001-154632-koog",
+    "summary": {
+      "borderlandsPct": 0.9354838709677419,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 11,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 2,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260929-162425-cvx8",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-29T23:24:25.000Z",
+    "dateEnd": "2026-09-30T00:18:38.780Z",
+    "dateLabel": "9/29/2026, 4:24:25 PM - 9/29/2026, 5:18:38 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260929-162425-cvx8",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 19,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 20
+    }
+  },
+  {
+    "id": "20260928-160007-rejm",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-28T23:00:07.000Z",
+    "dateEnd": "2026-09-29T00:16:55.796Z",
+    "dateLabel": "9/28/2026, 4:00:07 PM - 9/28/2026, 5:16:55 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260928-160007-rejm",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 11,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 20
+    }
+  },
+  {
+    "id": "20260927-155222-0tvw",
+    "title": "Empyrean Soul",
+    "commanders": [
+      "Empyrean Soul"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-27T22:52:22.000Z",
+    "dateEnd": "2026-09-27T23:38:34.037Z",
+    "dateLabel": "9/27/2026, 3:52:22 PM - 9/27/2026, 4:38:34 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260927-155222-0tvw",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 10,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260926-164927-ssih",
+    "title": "Grumpy Foo",
+    "commanders": [
+      "Grumpy Foo"
+    ],
+    "guild": {
+      "id": "AEC84103-177B-E511-A34A-E4115BDF481D",
+      "name": "Hyper Talented",
+      "tag": "HYPE"
+    },
+    "dateStart": "2026-09-26T23:49:27.000Z",
+    "dateEnd": "2026-09-27T00:42:59.243Z",
+    "dateLabel": "9/26/2026, 4:49:27 PM - 9/26/2026, 5:42:59 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260926-164927-ssih",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 17,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 25
+    }
+  },
+  {
+    "id": "20260926-104122-rqq7",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-26T17:41:22.000Z",
+    "dateEnd": "2026-09-26T19:13:24.031Z",
+    "dateLabel": "9/26/2026, 10:41:22 AM - 9/26/2026, 12:13:24 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260926-104122-rqq7",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 22,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 5,
+      "avgEnemySize": 6
+    }
+  },
+  {
+    "id": "20260925-164326-6t7i",
+    "title": "Dawn Of Foo",
+    "commanders": [
+      "Dawn Of Foo"
+    ],
+    "guild": {
+      "id": "E1CD7A0A-1E1A-EA11-81B7-AD7CCA945DAC",
+      "name": "Fortress Brimstone",
+      "tag": "BRIM"
+    },
+    "dateStart": "2026-09-25T23:43:26.000Z",
+    "dateEnd": "2026-09-26T00:56:01.222Z",
+    "dateLabel": "9/25/2026, 4:43:26 PM - 9/25/2026, 5:56:01 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260925-164326-6t7i",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 12
+    }
+  },
+  {
+    "id": "20260924-154534-ov5v",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-24T22:45:34.000Z",
+    "dateEnd": "2026-09-24T23:46:26.121Z",
+    "dateLabel": "9/24/2026, 3:45:34 PM - 9/24/2026, 4:46:26 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260924-154534-ov5v",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 14,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260922-154103-l1k7",
+    "title": "Empyrean Soul, Prötectör Of Löve",
+    "commanders": [
+      "Empyrean Soul",
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-22T22:41:03.000Z",
+    "dateEnd": "2026-09-22T23:58:34.103Z",
+    "dateLabel": "9/22/2026, 3:41:03 PM - 9/22/2026, 4:58:34 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260922-154103-l1k7",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 11,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 18
+    }
+  },
+  {
+    "id": "20260921-153413-r604",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-21T22:34:13.000Z",
+    "dateEnd": "2026-09-21T23:09:40.586Z",
+    "dateLabel": "9/21/2026, 3:34:13 PM - 9/21/2026, 4:09:40 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260921-153413-r604",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 31,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 23
+    }
+  },
+  {
+    "id": "20260919-155851-she0",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-19T22:58:51.000Z",
+    "dateEnd": "2026-09-19T23:56:36.455Z",
+    "dateLabel": "9/19/2026, 3:58:51 PM - 9/19/2026, 4:56:36 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260919-155851-she0",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 16,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260918-161748-c8mn",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+      "name": "Secret Order Of The Dolyaks",
+      "tag": "YAKS"
+    },
+    "dateStart": "2026-09-18T23:17:48.000Z",
+    "dateEnd": "2026-09-19T00:42:08.670Z",
+    "dateLabel": "9/18/2026, 4:17:48 PM - 9/18/2026, 5:42:08 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260918-161748-c8mn",
+    "summary": {
+      "borderlandsPct": 0.9,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260917-154632-iqrp",
+    "title": "Prötectör Of Löve, Söulfïre Störm",
+    "commanders": [
+      "Prötectör Of Löve",
+      "Söulfïre Störm"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-17T22:46:32.000Z",
+    "dateEnd": "2026-09-17T23:37:34.935Z",
+    "dateLabel": "9/17/2026, 3:46:32 PM - 9/17/2026, 4:37:34 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260917-154632-iqrp",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 24,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 9,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260914-154448-bulf",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "guild": {
+      "id": "7A00948C-78D7-49B4-A585-4088599BB381",
+      "name": "Clan Omen",
+      "tag": "Omen"
+    },
+    "dateStart": "2026-09-14T22:44:48.000Z",
+    "dateEnd": "2026-09-14T23:33:05.690Z",
+    "dateLabel": "9/14/2026, 3:44:48 PM - 9/14/2026, 4:33:05 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260914-154448-bulf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 27,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 20
+    }
+  },
+  {
+    "id": "20260913-161128-1j90",
+    "title": "Prötectör Of Löve, Soul Of The Storm",
+    "commanders": [
+      "Prötectör Of Löve",
+      "Soul Of The Storm"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-13T23:11:28.000Z",
+    "dateEnd": "2026-09-14T00:23:01.051Z",
+    "dateLabel": "9/13/2026, 4:11:28 PM - 9/13/2026, 5:23:01 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260913-161128-1j90",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 16,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 20
+    }
+  },
+  {
+    "id": "20260912-162537-hq2a",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-12T23:25:37.000Z",
+    "dateEnd": "2026-09-13T00:48:07.782Z",
+    "dateLabel": "9/12/2026, 4:25:37 PM - 9/12/2026, 5:48:07 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260912-162537-hq2a",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260911-161005-xisy",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-11T23:10:05.000Z",
+    "dateEnd": "2026-09-12T01:02:41.515Z",
+    "dateLabel": "9/11/2026, 4:10:05 PM - 9/11/2026, 6:02:41 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260911-161005-xisy",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 10,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260910-154947-6e8p",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-10T22:49:47.000Z",
+    "dateEnd": "2026-09-11T00:06:12.074Z",
+    "dateLabel": "9/10/2026, 3:49:47 PM - 9/10/2026, 5:06:12 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260910-154947-6e8p",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 16,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 13,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 23
+    }
+  },
+  {
+    "id": "20260907-155505-nod0",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-07T22:55:05.000Z",
+    "dateEnd": "2026-09-07T23:57:19.632Z",
+    "dateLabel": "9/7/2026, 3:55:05 PM - 9/7/2026, 4:57:19 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260907-155505-nod0",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 6,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 20
+    }
+  },
+  {
+    "id": "20260906-180340-nm0o",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-07T01:03:40.000Z",
+    "dateEnd": "2026-09-07T01:12:22.786Z",
+    "dateLabel": "9/6/2026, 6:03:40 PM - 9/6/2026, 6:12:22 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260906-180340-nm0o",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 71,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260905-160317-hbax",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+      "name": "Secret Order Of The Dolyaks",
+      "tag": "YAKS"
+    },
+    "dateStart": "2026-09-05T23:03:17.000Z",
+    "dateEnd": "2026-09-05T23:57:21.163Z",
+    "dateLabel": "9/5/2026, 4:03:17 PM - 9/5/2026, 4:57:21 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260905-160317-hbax",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 14,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 15,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260904-162357-saop",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-04T23:23:57.000Z",
+    "dateEnd": "2026-09-05T00:21:14.272Z",
+    "dateLabel": "9/4/2026, 4:23:57 PM - 9/4/2026, 5:21:14 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260904-162357-saop",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 20,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 20
+    }
+  },
+  {
+    "id": "20260903-155908-m73k",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-03T22:59:08.000Z",
+    "dateEnd": "2026-09-04T00:04:42.404Z",
+    "dateLabel": "9/3/2026, 3:59:08 PM - 9/3/2026, 5:04:42 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260903-155908-m73k",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 15,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 12,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260901-153835-ej3f",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-09-01T22:38:35.000Z",
+    "dateEnd": "2026-09-01T23:57:40.108Z",
+    "dateLabel": "9/1/2026, 3:38:35 PM - 9/1/2026, 4:57:40 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260901-153835-ej3f",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 16,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 19
+    }
+  },
+  {
+    "id": "20260831-163247-iq3y",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-31T23:32:47.000Z",
+    "dateEnd": "2026-09-01T00:15:51.048Z",
+    "dateLabel": "8/31/2026, 4:32:47 PM - 8/31/2026, 5:15:51 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260831-163247-iq3y",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 27,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 38,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260830-105614-r6x5",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-30T17:56:14.000Z",
+    "dateEnd": "2026-08-30T18:53:18.387Z",
+    "dateLabel": "8/30/2026, 10:56:14 AM - 8/30/2026, 11:53:18 AM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260830-105614-r6x5",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 13,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 3,
+      "avgEnemySize": 6
+    }
+  },
+  {
+    "id": "20260829-154439-kigm",
+    "title": "Ms Swagalicious",
+    "commanders": [
+      "Ms Swagalicious"
+    ],
+    "guild": {
+      "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+      "name": "Secret Order Of The Dolyaks",
+      "tag": "YAKS"
+    },
+    "dateStart": "2026-08-29T22:44:39.000Z",
+    "dateEnd": "2026-08-29T23:36:21.822Z",
+    "dateLabel": "8/29/2026, 3:44:39 PM - 8/29/2026, 4:36:21 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260829-154439-kigm",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 14,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 12,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 22
+    }
+  },
+  {
+    "id": "20260828-154547-htwy",
+    "title": "Ms Swagalicious",
+    "commanders": [
+      "Ms Swagalicious"
+    ],
+    "guild": {
+      "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+      "name": "Secret Order Of The Dolyaks",
+      "tag": "YAKS"
+    },
+    "dateStart": "2026-08-28T22:45:47.000Z",
+    "dateEnd": "2026-08-29T00:08:33.735Z",
+    "dateLabel": "8/28/2026, 3:45:47 PM - 8/28/2026, 5:08:33 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260828-154547-htwy",
+    "summary": {
+      "borderlandsPct": 0.95,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260827-160307-q7xa",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-27T23:03:07.000Z",
+    "dateEnd": "2026-08-27T23:31:50.225Z",
+    "dateLabel": "8/27/2026, 4:03:07 PM - 8/27/2026, 4:31:50 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260827-160307-q7xa",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 38,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260825-160004-swg8",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-25T23:00:04.000Z",
+    "dateEnd": "2026-08-25T23:46:38.454Z",
+    "dateLabel": "8/25/2026, 4:00:04 PM - 8/25/2026, 4:46:38 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260825-160004-swg8",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 34,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260824-154638-ttjf",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-24T22:46:38.000Z",
+    "dateEnd": "2026-08-24T23:43:16.593Z",
+    "dateLabel": "8/24/2026, 3:46:38 PM - 8/24/2026, 4:43:16 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260824-154638-ttjf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 34,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 6,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 30
+    }
+  },
+  {
+    "id": "20260823-163115-f0ux",
+    "title": "Söulfire Störm",
+    "commanders": [
+      "Söulfire Störm"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-23T23:31:15.000Z",
+    "dateEnd": "2026-08-24T00:20:35.472Z",
+    "dateLabel": "8/23/2026, 4:31:15 PM - 8/23/2026, 5:20:35 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260823-163115-f0ux",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 11,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 23
+    }
+  },
+  {
+    "id": "20260822-154226-c2kk",
+    "title": "Swagnums Jr",
+    "commanders": [
+      "Swagnums Jr"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-22T22:42:26.000Z",
+    "dateEnd": "2026-08-22T23:34:38.389Z",
+    "dateLabel": "8/22/2026, 3:42:26 PM - 8/22/2026, 4:34:38 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260822-154226-c2kk",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 24,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260821-160354-wxw5",
+    "title": "Swagnums Jr",
+    "commanders": [
+      "Swagnums Jr"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-21T23:03:54.000Z",
+    "dateEnd": "2026-08-22T00:29:39.333Z",
+    "dateLabel": "8/21/2026, 4:03:54 PM - 8/21/2026, 5:29:39 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260821-160354-wxw5",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 15,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260820-160248-h7ak",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-20T23:02:48.000Z",
+    "dateEnd": "2026-08-20T23:57:12.080Z",
+    "dateLabel": "8/20/2026, 4:02:48 PM - 8/20/2026, 4:57:12 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260820-160248-h7ak",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 19,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 10,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260819-165441-8m2r",
+    "title": "Pocket Swagnums",
+    "commanders": [
+      "Pocket Swagnums"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-19T23:54:41.000Z",
+    "dateEnd": "2026-08-20T00:32:05.886Z",
+    "dateLabel": "8/19/2026, 4:54:41 PM - 8/19/2026, 5:32:05 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260819-165441-8m2r",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 27,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 10
+    }
+  },
+  {
+    "id": "20260818-153551-6mot",
+    "title": "Midnight Soulfire, Prötectör Of Löve",
+    "commanders": [
+      "Midnight Soulfire",
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-18T22:35:51.000Z",
+    "dateEnd": "2026-08-19T00:10:10.789Z",
+    "dateLabel": "8/18/2026, 3:35:51 PM - 8/18/2026, 5:10:10 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260818-153551-6mot",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 13,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 25
+    }
+  },
+  {
+    "id": "20260817-152130-rly9",
+    "title": "Midnight Soulfire",
+    "commanders": [
+      "Midnight Soulfire"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-17T22:21:30.000Z",
+    "dateEnd": "2026-08-17T22:56:53.000Z",
+    "dateLabel": "8/17/2026, 3:21:30 PM - 8/17/2026, 3:56:53 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260817-152130-rly9",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 35,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 25
+    }
+  },
+  {
+    "id": "20260816-161254-2kmh",
+    "title": "Howlric Growlsoul",
+    "commanders": [
+      "Howlric Growlsoul"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-16T23:12:54.000Z",
+    "dateEnd": "2026-08-17T00:19:37.000Z",
+    "dateLabel": "8/16/2026, 4:12:54 PM - 8/16/2026, 5:19:37 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260816-161254-2kmh",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 10,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 17,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260815-160432-yww2",
+    "title": "Swagnums Jr",
+    "commanders": [
+      "Swagnums Jr"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-15T23:04:32.000Z",
+    "dateEnd": "2026-08-15T23:57:07.000Z",
+    "dateLabel": "8/15/2026, 4:04:32 PM - 8/15/2026, 4:57:07 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260815-160432-yww2",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 18,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 22
+    }
+  },
+  {
+    "id": "20260814-151836-ghh4",
+    "title": "Dnô, Growling Soul, Prötectör Of Löve, Swagnums Jr, Treepointonefour",
+    "commanders": [
+      "Dnô",
+      "Growling Soul",
+      "Prötectör Of Löve",
+      "Swagnums Jr",
+      "Treepointonefour"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-14T22:18:36.000Z",
+    "dateEnd": "2026-08-14T22:58:59.000Z",
+    "dateLabel": "8/14/2026, 3:18:36 PM - 8/14/2026, 3:58:59 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260814-151836-ghh4",
+    "summary": {
+      "borderlandsPct": 0.8260869565217391,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 17,
+      "avgEnemySize": 13
+    }
+  },
+  {
+    "id": "20260813-154048-qjdb",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-13T22:40:48.000Z",
+    "dateEnd": "2026-08-13T23:50:44.000Z",
+    "dateLabel": "8/13/2026, 3:40:48 PM - 8/13/2026, 4:50:44 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260813-154048-qjdb",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 34,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 14
+    }
+  },
+  {
+    "id": "20260812-161950-sghj",
+    "title": "Grumpy Foo, Swagnums Jr",
+    "commanders": [
+      "Grumpy Foo",
+      "Swagnums Jr"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-12T23:19:50.000Z",
+    "dateEnd": "2026-08-13T00:15:41.000Z",
+    "dateLabel": "8/12/2026, 4:19:50 PM - 8/12/2026, 5:15:41 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260812-161950-sghj",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 17,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 11,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260810-154223-vdi2",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-10T22:42:23.000Z",
+    "dateEnd": "2026-08-10T23:51:31.000Z",
+    "dateLabel": "8/10/2026, 3:42:23 PM - 8/10/2026, 4:51:31 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260810-154223-vdi2",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 22,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260809-154631-vbxd",
+    "title": "Growling Soul, Prötectör Of Löve",
+    "commanders": [
+      "Growling Soul",
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-09T22:46:31.000Z",
+    "dateEnd": "2026-08-09T23:54:48.000Z",
+    "dateLabel": "8/9/2026, 3:46:31 PM - 8/9/2026, 4:54:48 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260809-154631-vbxd",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 12,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 16
+    }
+  },
+  {
+    "id": "20260809-093041-0dm1",
+    "title": "Growling Soul, Prötectör Of Löve, Soul Of The Storm",
+    "commanders": [
+      "Growling Soul",
+      "Prötectör Of Löve",
+      "Soul Of The Storm"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-09T16:30:41.000Z",
+    "dateEnd": "2026-08-09T17:38:07.000Z",
+    "dateLabel": "8/9/2026, 9:30:41 AM - 8/9/2026, 10:38:07 AM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260809-093041-0dm1",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 17,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 7
+    }
+  },
+  {
+    "id": "20260808-154653-i1e4",
+    "title": "Swagnums Jr",
+    "commanders": [
+      "Swagnums Jr"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-08T22:46:53.000Z",
+    "dateEnd": "2026-08-09T00:20:26.000Z",
+    "dateLabel": "8/8/2026, 3:46:53 PM - 8/8/2026, 5:20:26 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260808-154653-i1e4",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 10,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 17,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260808-065844-9xsy",
+    "title": "Growling Soul",
+    "commanders": [
+      "Growling Soul"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-08T13:58:44.000Z",
+    "dateEnd": "2026-08-08T15:23:02.000Z",
+    "dateLabel": "8/8/2026, 6:58:44 AM - 8/8/2026, 8:23:02 AM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260808-065844-9xsy",
+    "summary": {
+      "borderlandsPct": 0.5833333333333334,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 6,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 2,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260807-155348-1641",
+    "title": "Swagnums Jr",
+    "commanders": [
+      "Swagnums Jr"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-07T22:53:48.000Z",
+    "dateEnd": "2026-08-08T00:43:21.000Z",
+    "dateLabel": "8/7/2026, 3:53:48 PM - 8/7/2026, 5:43:21 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260807-155348-1641",
+    "summary": {
+      "borderlandsPct": 0.75,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 22
+    }
+  },
+  {
+    "id": "20260806-154346-ltwy",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-06T22:43:46.000Z",
+    "dateEnd": "2026-08-06T23:56:50.000Z",
+    "dateLabel": "8/6/2026, 3:43:46 PM - 8/6/2026, 4:56:50 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260806-154346-ltwy",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 10,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260805-164639-e5m9",
+    "title": "Swagnums Jr",
+    "commanders": [
+      "Swagnums Jr"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-05T23:46:39.000Z",
+    "dateEnd": "2026-08-06T00:53:59.000Z",
+    "dateLabel": "8/5/2026, 4:46:39 PM - 8/5/2026, 5:53:59 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260805-164639-e5m9",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 19,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 9,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260804-155409-ojew",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "guild": {
+      "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+      "name": "Soulmates Always And Forever",
+      "tag": "LOVE"
+    },
+    "dateStart": "2026-08-04T22:54:09.000Z",
+    "dateEnd": "2026-08-05T00:21:30.000Z",
+    "dateLabel": "8/4/2026, 3:54:09 PM - 8/4/2026, 5:21:30 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260804-155409-ojew",
+    "summary": {
+      "borderlandsPct": 0.9047619047619048,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 18,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 2,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260803-154142-o0ee",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "dateStart": "2026-08-03T22:41:42.000Z",
+    "dateEnd": "2026-08-03T23:28:29.000Z",
+    "dateLabel": "8/3/2026, 3:41:42 PM - 8/3/2026, 4:28:29 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260803-154142-o0ee",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 16,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 13,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 29
+    }
+  },
+  {
+    "id": "20260802-153621-2m02",
+    "title": "Soul Of The Storm",
+    "commanders": [
+      "Soul Of The Storm"
+    ],
+    "dateStart": "2026-08-02T22:36:21.000Z",
+    "dateEnd": "2026-08-03T00:12:12.000Z",
+    "dateLabel": "8/2/2026, 3:36:21 PM - 8/2/2026, 5:12:12 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260802-153621-2m02",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260802-113555-2gp0",
+    "title": "Mægnus Storm",
+    "commanders": [
+      "Mægnus Storm"
+    ],
+    "dateStart": "2026-08-02T18:35:55.000Z",
+    "dateEnd": "2026-08-02T19:59:15.000Z",
+    "dateLabel": "8/2/2026, 11:35:55 AM - 8/2/2026, 12:59:15 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260802-113555-2gp0",
+    "summary": {
+      "borderlandsPct": 0.2777777777777778,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 13,
+      "avgEnemySize": 20
+    }
+  },
+  {
+    "id": "20260801-153729-jq5q",
+    "title": "Ms Swagalicious, Soul Of The Storm",
+    "commanders": [
+      "Ms Swagalicious",
+      "Soul Of The Storm"
+    ],
+    "dateStart": "2026-08-01T22:37:29.000Z",
+    "dateEnd": "2026-08-02T00:02:20.000Z",
+    "dateLabel": "8/1/2026, 3:37:29 PM - 8/1/2026, 5:02:20 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260801-153729-jq5q",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 17,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 26
+    }
+  },
+  {
+    "id": "20260801-111420-94x6",
+    "title": "Soul Of The Storm",
+    "commanders": [
+      "Soul Of The Storm"
+    ],
+    "dateStart": "2026-08-01T18:14:20.000Z",
+    "dateEnd": "2026-08-01T19:57:43.000Z",
+    "dateLabel": "8/1/2026, 11:14:20 AM - 8/1/2026, 12:57:43 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260801-111420-94x6",
+    "summary": {
+      "borderlandsPct": 0.7272727272727273,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 3,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 13
+    }
+  },
+  {
+    "id": "20260731-150841-drlt",
+    "title": "Growling Soul, Ms Swagalicious",
+    "commanders": [
+      "Growling Soul",
+      "Ms Swagalicious"
+    ],
+    "dateStart": "2026-07-31T22:08:41.000Z",
+    "dateEnd": "2026-08-01T00:33:09.000Z",
+    "dateLabel": "7/31/2026, 3:08:41 PM - 7/31/2026, 5:33:09 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260731-150841-drlt",
+    "summary": {
+      "borderlandsPct": 0.6666666666666666,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 15,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260730-155022-ip8f",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "dateStart": "2026-07-30T22:50:22.000Z",
+    "dateEnd": "2026-07-31T00:03:05.000Z",
+    "dateLabel": "7/30/2026, 3:50:22 PM - 7/30/2026, 5:03:05 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260730-155022-ip8f",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 16
+    }
+  },
+  {
+    "id": "20260728-153711-7d3u",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "dateStart": "2026-07-28T22:37:11.000Z",
+    "dateEnd": "2026-07-28T23:59:37.000Z",
+    "dateLabel": "7/28/2026, 3:37:11 PM - 7/28/2026, 4:59:37 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260728-153711-7d3u",
+    "summary": {
+      "borderlandsPct": 0.9333333333333333,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260728-153711-68tz",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "dateStart": "2026-07-28T22:37:11.000Z",
+    "dateEnd": "2026-07-28T23:59:37.000Z",
+    "dateLabel": "7/28/2026, 3:37:11 PM - 7/28/2026, 4:59:37 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260728-153711-68tz",
+    "summary": {
+      "borderlandsPct": 0.9333333333333333,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 11,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260727-155134-xu4z",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "dateStart": "2026-07-27T22:51:34.000Z",
+    "dateEnd": "2026-07-28T00:15:59.000Z",
+    "dateLabel": "7/27/2026, 3:51:34 PM - 7/27/2026, 5:15:59 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260727-155134-xu4z",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260726-161006-mza3",
+    "title": "Rugged Soul",
+    "commanders": [
+      "Rugged Soul"
+    ],
+    "dateStart": "2026-07-26T23:10:06.000Z",
+    "dateEnd": "2026-07-27T00:50:11.000Z",
+    "dateLabel": "7/26/2026, 4:10:06 PM - 7/26/2026, 5:50:11 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260726-161006-mza3",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260726-074151-2kom",
+    "title": "Soul Of The Storm",
+    "commanders": [
+      "Soul Of The Storm"
+    ],
+    "dateStart": "2026-07-26T14:41:51.000Z",
+    "dateEnd": "2026-07-26T15:39:04.000Z",
+    "dateLabel": "7/26/2026, 7:41:51 AM - 7/26/2026, 8:39:04 AM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260726-074151-2kom",
+    "summary": {
+      "borderlandsPct": 0.8275862068965517,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 4,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 3,
+      "avgEnemySize": 16
+    }
+  },
+  {
+    "id": "20260725-161824-ktja",
+    "title": "Ms Swagalicious",
+    "commanders": [
+      "Ms Swagalicious"
+    ],
+    "dateStart": "2026-07-25T23:18:24.000Z",
+    "dateEnd": "2026-07-26T00:56:44.000Z",
+    "dateLabel": "7/25/2026, 4:18:24 PM - 7/25/2026, 5:56:44 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260725-161824-ktja",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 10,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260724-155958-5uba",
+    "title": "Ms Athena Promachos",
+    "commanders": [
+      "Ms Athena Promachos"
+    ],
+    "dateStart": "2026-07-24T22:59:58.000Z",
+    "dateEnd": "2026-07-25T00:08:16.000Z",
+    "dateLabel": "7/24/2026, 3:59:58 PM - 7/24/2026, 5:08:16 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260724-155958-5uba",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 17,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 34
+    }
+  },
+  {
+    "id": "20260723-155206-vvdv",
+    "title": "Abbadon Ironaxe, Abbadon Ironside, Bjorn Wildstride",
+    "commanders": [
+      "Abbadon Ironaxe",
+      "Abbadon Ironside",
+      "Bjorn Wildstride"
+    ],
+    "dateStart": "2026-07-23T22:52:06.000Z",
+    "dateEnd": "2026-07-24T00:16:57.000Z",
+    "dateLabel": "7/23/2026, 3:52:06 PM - 7/23/2026, 5:16:57 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260723-155206-vvdv",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 19,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 25
+    }
+  },
+  {
+    "id": "20260722-160902-2r0h",
+    "title": "Soul Of The Storm",
+    "commanders": [
+      "Soul Of The Storm"
+    ],
+    "dateStart": "2026-07-22T23:09:02.000Z",
+    "dateEnd": "2026-07-23T00:56:32.000Z",
+    "dateLabel": "7/22/2026, 4:09:02 PM - 7/22/2026, 5:56:32 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260722-160902-2r0h",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 8,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260721-155521-z31n",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "dateStart": "2026-07-21T22:55:21.000Z",
+    "dateEnd": "2026-07-22T00:01:00.000Z",
+    "dateLabel": "7/21/2026, 3:55:21 PM - 7/21/2026, 5:01:00 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260721-155521-z31n",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 27,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260720-155209-ffvy",
+    "title": "Abbadon Ironaxe",
+    "commanders": [
+      "Abbadon Ironaxe"
+    ],
+    "dateStart": "2026-07-20T22:52:09.000Z",
+    "dateEnd": "2026-07-20T23:52:18.000Z",
+    "dateLabel": "7/20/2026, 3:52:09 PM - 7/20/2026, 4:52:18 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260720-155209-ffvy",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260719-162638-8imn",
+    "title": "Soul Of The Storm",
+    "commanders": [
+      "Soul Of The Storm"
+    ],
+    "dateStart": "2026-07-19T23:26:38.000Z",
+    "dateEnd": "2026-07-20T00:33:11.000Z",
+    "dateLabel": "7/19/2026, 4:26:38 PM - 7/19/2026, 5:33:11 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260719-162638-8imn",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260718-161711-q9jk",
+    "title": "Soul Of The Storm",
+    "commanders": [
+      "Soul Of The Storm"
+    ],
+    "dateStart": "2026-07-18T23:17:11.000Z",
+    "dateEnd": "2026-07-19T00:55:10.000Z",
+    "dateLabel": "7/18/2026, 4:17:11 PM - 7/18/2026, 5:55:10 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260718-161711-q9jk",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 26
+    }
+  },
+  {
+    "id": "20260717-163933-iokm",
+    "title": "Ms Athena Promachos",
+    "commanders": [
+      "Ms Athena Promachos"
+    ],
+    "dateStart": "2026-07-17T23:39:33.000Z",
+    "dateEnd": "2026-07-18T00:36:58.000Z",
+    "dateLabel": "7/17/2026, 4:39:33 PM - 7/17/2026, 5:36:58 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260717-163933-iokm",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 20,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260716-160854-ztqq",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "dateStart": "2026-07-16T23:08:54.000Z",
+    "dateEnd": "2026-07-17T00:54:47.000Z",
+    "dateLabel": "7/16/2026, 4:08:54 PM - 7/16/2026, 5:54:47 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260716-160854-ztqq",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 16,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 29
+    }
+  },
+  {
+    "id": "20260714-165226-6rnb",
+    "title": "Prötectör Of Löve",
+    "commanders": [
+      "Prötectör Of Löve"
+    ],
+    "dateStart": "2026-07-14T23:52:26.000Z",
+    "dateEnd": "2026-07-15T00:50:22.000Z",
+    "dateLabel": "7/14/2026, 4:52:26 PM - 7/14/2026, 5:50:22 PM",
+    "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20260714-165226-6rnb",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 20,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 21
+    }
+  }
+]
