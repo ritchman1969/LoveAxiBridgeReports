@@ -5,6 +5,44 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261004-160224-cl82",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-04T23:02:24.000Z",
+      "dateEnd": "2026-10-05T00:25:40.472Z",
+      "dateLabel": "10/4/2026, 4:02:24 PM - 10/4/2026, 5:25:40 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261004-160224-cl82",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261004-154502-mkl2",
       "title": "Empyrean Soul",
       "commanders": [
