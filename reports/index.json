@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261010-071745-9myb",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-10T14:17:45.000Z",
+      "dateEnd": "2026-10-10T15:24:25.205Z",
+      "dateLabel": "10/10/2026, 7:17:45 AM - 10/10/2026, 8:24:25 AM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261010-071745-9myb",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261009-154831-9lvc",
       "title": "Grumpy Foo, Pocket Swagnums",
       "commanders": [
