@@ -1,9 +1,53 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261009-154831-9lvc",
+      "title": "Grumpy Foo, Pocket Swagnums",
+      "commanders": [
+        "Grumpy Foo",
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-09T22:48:31.000Z",
+      "dateEnd": "2026-10-10T00:09:52.639Z",
+      "dateLabel": "10/9/2026, 3:48:31 PM - 10/9/2026, 5:09:52 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261009-154831-9lvc",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20261006-155043-n0jy",
       "title": "Prötectör Of Löve",
