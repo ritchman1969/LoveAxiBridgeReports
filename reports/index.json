@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261010-160752-qv7g",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-10T23:07:52.000Z",
+      "dateEnd": "2026-10-11T00:14:17.769Z",
+      "dateLabel": "10/10/2026, 4:07:52 PM - 10/10/2026, 5:14:17 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261010-160752-qv7g",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261010-123038-w2mu",
       "title": "Soul Of The Storm",
       "commanders": [
