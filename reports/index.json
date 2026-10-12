@@ -9,6 +9,46 @@
   },
   "entries": [
     {
+      "id": "20261011-153143-dil1",
+      "title": "Empyrean Soul, Soul Of The Storm",
+      "commanders": [
+        "Empyrean Soul",
+        "Soul Of The Storm"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-11T22:31:43.000Z",
+      "dateEnd": "2026-10-12T00:15:33.760Z",
+      "dateLabel": "10/11/2026, 3:31:43 PM - 10/11/2026, 5:15:33 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261011-153143-dil1",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261010-160752-qv7g",
       "title": "Pocket Swagnums",
       "commanders": [
