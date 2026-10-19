@@ -9,6 +9,46 @@
   },
   "entries": [
     {
+      "id": "20261018-154411-yikr",
+      "title": "Empyrean Soul, Prötectör Of Löve",
+      "commanders": [
+        "Empyrean Soul",
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-18T22:44:11.000Z",
+      "dateEnd": "2026-10-19T00:27:16.143Z",
+      "dateLabel": "10/18/2026, 3:44:11 PM - 10/18/2026, 5:27:16 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261018-154411-yikr",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20261017-155135-868x",
       "title": "Ms Swagalicious",
       "commanders": [
