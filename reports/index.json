@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261024-140222-m1q1",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-24T21:02:22.000Z",
+      "dateEnd": "2026-10-24T22:27:44.437Z",
+      "dateLabel": "10/24/2026, 2:02:22 PM - 10/24/2026, 3:27:44 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261024-140222-m1q1",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 3
+      }
+    },
+    {
       "id": "20261023-152343-552o",
       "title": "Empyrean Soul, Ms Swagalicious",
       "commanders": [
