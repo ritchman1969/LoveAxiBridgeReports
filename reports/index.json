@@ -9,6 +9,51 @@
   },
   "entries": [
     {
+      "id": "20261024-160041-d2y4",
+      "title": "Ms Swagalicious, Pocket Swagnums",
+      "commanders": [
+        "Ms Swagalicious",
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-10-24T23:00:41.000Z",
+      "dateEnd": "2026-10-25T00:42:38.881Z",
+      "dateLabel": "10/24/2026, 4:00:41 PM - 10/24/2026, 5:42:38 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261024-160041-d2y4",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0.7857142857142857,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261024-140222-m1q1",
       "title": "Empyrean Soul",
       "commanders": [
