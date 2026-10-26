@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261025-162141-ku5a",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-25T23:21:41.000Z",
+      "dateEnd": "2026-10-26T00:31:41.320Z",
+      "dateLabel": "10/25/2026, 4:21:41 PM - 10/25/2026, 5:31:41 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261025-162141-ku5a",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0.9230769230769231,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261024-160041-d2y4",
       "title": "Ms Swagalicious, Pocket Swagnums",
       "commanders": [
