@@ -5,9 +5,54 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261105-155026-egbs",
+      "title": "Lanfear Storm, Prötectör Of Löve",
+      "commanders": [
+        "Lanfear Storm",
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-05T23:50:26.000Z",
+      "dateEnd": "2026-11-06T01:48:44.637Z",
+      "dateLabel": "11/5/2026, 3:50:26 PM - 11/5/2026, 5:48:44 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261105-155026-egbs",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0.6470588235294118,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 23
+      }
+    },
     {
       "id": "20261102-153545-qotj",
       "title": "Abbadon Ironaxe",
