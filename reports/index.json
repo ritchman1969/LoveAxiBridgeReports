@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261107-120446-3tqh",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-07T20:04:46.000Z",
+      "dateEnd": "2026-11-07T21:00:13.461Z",
+      "dateLabel": "11/7/2026, 12:04:46 PM - 11/7/2026, 1:00:13 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261107-120446-3tqh",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 3
+      }
+    },
+    {
       "id": "20261106-162841-3v1w",
       "title": "Soul Of The Storm",
       "commanders": [
