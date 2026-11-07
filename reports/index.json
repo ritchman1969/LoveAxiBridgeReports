@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261106-162841-3v1w",
+      "title": "Soul Of The Storm",
+      "commanders": [
+        "Soul Of The Storm"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-07T00:28:41.000Z",
+      "dateEnd": "2026-11-07T01:49:24.250Z",
+      "dateLabel": "11/6/2026, 4:28:41 PM - 11/6/2026, 5:49:24 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261106-162841-3v1w",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261105-155026-egbs",
       "title": "Lanfear Storm, Prötectör Of Löve",
       "commanders": [
