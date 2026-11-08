@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261107-160101-1oud",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-11-08T00:01:01.000Z",
+      "dateEnd": "2026-11-08T01:05:56.632Z",
+      "dateLabel": "11/7/2026, 4:01:01 PM - 11/7/2026, 5:05:56 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261107-160101-1oud",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261107-120446-3tqh",
       "title": "Empyrean Soul",
       "commanders": [
