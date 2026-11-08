@@ -9,6 +9,50 @@
   },
   "entries": [
     {
+      "id": "20261108-100423-q06p",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "863D066C-A842-E811-81A1-02C484A68D0A",
+        "name": "Love And War Paradox",
+        "tag": "PACT"
+      },
+      "dateStart": "2026-11-08T18:04:23.000Z",
+      "dateEnd": "2026-11-08T18:26:00.132Z",
+      "dateLabel": "11/8/2026, 10:04:23 AM - 11/8/2026, 10:26:00 AM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261108-100423-q06p",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0.53125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20261107-160101-1oud",
       "title": "Pocket Swagnums",
       "commanders": [
