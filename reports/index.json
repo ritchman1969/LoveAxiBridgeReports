@@ -5,9 +5,43 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261115-152623-gffp",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-15T23:26:23.000Z",
+      "dateEnd": "2026-11-15T23:58:42.406Z",
+      "dateLabel": "11/15/2026, 3:26:23 PM - 11/15/2026, 3:58:42 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261115-152623-gffp",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 31,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20261113-153953-993f",
       "title": "Prötectör Of Löve",
