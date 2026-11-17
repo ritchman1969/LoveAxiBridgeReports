@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261116-160456-nw1g",
+      "title": "Abbadon Ironaxe, Blighted Blaze",
+      "commanders": [
+        "Abbadon Ironaxe",
+        "Blighted Blaze"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-17T00:04:56.000Z",
+      "dateEnd": "2026-11-17T01:28:24.564Z",
+      "dateLabel": "11/16/2026, 4:04:56 PM - 11/16/2026, 5:28:24 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261116-160456-nw1g",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 24,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261115-152623-gffp",
       "title": "Empyrean Soul",
       "commanders": [
