@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261117-152935-e26q",
+      "title": "Chefs Mesmer X",
+      "commanders": [
+        "Chefs Mesmer X"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-11-17T23:29:35.000Z",
+      "dateEnd": "2026-11-18T00:52:15.986Z",
+      "dateLabel": "11/17/2026, 3:29:35 PM - 11/17/2026, 4:52:15 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261117-152935-e26q",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261116-160456-nw1g",
       "title": "Abbadon Ironaxe, Blighted Blaze",
       "commanders": [
