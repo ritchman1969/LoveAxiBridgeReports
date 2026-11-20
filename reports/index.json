@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261119-155810-ank4",
+      "title": "Phantasmagoric Soul",
+      "commanders": [
+        "Phantasmagoric Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-19T23:58:10.000Z",
+      "dateEnd": "2026-11-20T01:48:40.521Z",
+      "dateLabel": "11/19/2026, 3:58:10 PM - 11/19/2026, 5:48:40 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261119-155810-ank4",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261117-152935-e26q",
       "title": "Chefs Mesmer X",
       "commanders": [
