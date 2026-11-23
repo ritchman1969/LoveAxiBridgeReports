@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261122-153518-7os6",
+      "title": "Phantasmagoric Soul",
+      "commanders": [
+        "Phantasmagoric Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-22T23:35:18.000Z",
+      "dateEnd": "2026-11-23T00:46:51.744Z",
+      "dateLabel": "11/22/2026, 3:35:18 PM - 11/22/2026, 4:46:51 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261122-153518-7os6",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261121-155658-524q",
       "title": "Phantasmagoric Soul",
       "commanders": [
