@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261123-154831-dui8",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-23T23:48:31.000Z",
+      "dateEnd": "2026-11-24T00:38:58.530Z",
+      "dateLabel": "11/23/2026, 3:48:31 PM - 11/23/2026, 4:38:58 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261123-154831-dui8",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261122-153518-7os6",
       "title": "Phantasmagoric Soul",
       "commanders": [
