@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261124-160114-in1g",
+      "title": "Phantasmagoric Soul, Wrong Way Foo",
+      "commanders": [
+        "Phantasmagoric Soul",
+        "Wrong Way Foo"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-25T00:01:14.000Z",
+      "dateEnd": "2026-11-25T01:21:54.903Z",
+      "dateLabel": "11/24/2026, 4:01:14 PM - 11/24/2026, 5:21:54 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261124-160114-in1g",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 14,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20261123-154831-dui8",
       "title": "Abbadon Ironaxe",
       "commanders": [
