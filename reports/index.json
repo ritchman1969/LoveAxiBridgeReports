@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261127-101047-sgao",
+      "title": "Jaxsynia, Xunlai Doúble Agent",
+      "commanders": [
+        "Jaxsynia",
+        "Xunlai Doúble Agent"
+      ],
+      "guild": {
+        "id": "56D3FEB7-133E-E911-81A8-F161567B2263",
+        "name": "Quaggan Imperial Army",
+        "tag": "Qi"
+      },
+      "dateStart": "2026-11-27T18:10:47.000Z",
+      "dateEnd": "2026-11-27T18:50:44.128Z",
+      "dateLabel": "11/27/2026, 10:10:47 AM - 11/27/2026, 10:50:44 AM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261127-101047-sgao",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261124-160114-in1g",
       "title": "Phantasmagoric Soul, Wrong Way Foo",
       "commanders": [
