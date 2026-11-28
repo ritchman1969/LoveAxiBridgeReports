@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261127-153852-4nne",
+      "title": "Phantasmagoric Soul",
+      "commanders": [
+        "Phantasmagoric Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-27T23:38:52.000Z",
+      "dateEnd": "2026-11-28T01:41:02.619Z",
+      "dateLabel": "11/27/2026, 3:38:52 PM - 11/27/2026, 5:41:02 PM",
+      "url": "https://ritchman1969.github.io/LoveAxiBridgeReports/?report=20261127-153852-4nne",
+      "publishedBy": "ritchman1969",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261127-101047-sgao",
       "title": "Jaxsynia, Xunlai Doúble Agent",
       "commanders": [
